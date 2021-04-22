@@ -2,6 +2,6 @@
 
 comands:
 
-live-server.
+`live-server`
 
-npm run compile:sass
+`npm run compile:sass`
